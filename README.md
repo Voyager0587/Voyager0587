@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Voyager0587&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-![Voyager's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Voyager0587 GitHub ID&layout=compact&hide_border=true&langs_count=10)
-
-[![Voyager's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Voyager0587 GitHub ID)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Voyager0587&theme=dark&hide_border=true" />
