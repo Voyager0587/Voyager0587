@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <br/> 
 <div align="left">
-<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
-<img height='170' src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="left" />
+<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
+<img height='160' src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="left" />
 </div> 
 
 <!--
