@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on improve my skills.
 
-🌱 I’m currently learning Android.
+🌱 I’m currently learning Android and algorithms.
 
 👯 I’m looking to collaborate on ...
 
