@@ -3,7 +3,7 @@
 </br>
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on improve my skills.
 
 🌱 I’m currently learning Android.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: Voyager
 
-⚡ Fun fact: i am student
+⚡ Fun fact: Sudent
 
 
 <br/> 
