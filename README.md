@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about Android knowledge.
 
-📫 How to reach me: QQ:3513864951
+📫 How to reach me: voyager0587@qq.com
 
 😄 Pronouns: Voyager
 
