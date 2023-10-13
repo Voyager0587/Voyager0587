@@ -1,6 +1,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="480"/>
-</br>
-</br>
+# ***Mihodi H. Lushan***
+![](https://img.shields.io/badge/Android-Developer-brightgreen)  ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-4+yrs-red)
+
+
+
 Here are some ideas to get you started:
 
 🔭 I’m currently working on improve my skills.
