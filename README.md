@@ -1,8 +1,4 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="480"/>
-# ***Mihodi H. Lushan***
-![](https://img.shields.io/badge/Android-Developer-brightgreen)  ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-4+yrs-red)
-
-
 
 Here are some ideas to get you started:
 
@@ -21,8 +17,8 @@ Here are some ideas to get you started:
 😄 Pronouns: Voyager
 
 ⚡ Fun fact: Sudent
-
-
+# ***Voyager***
+![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-4+yrs-red)
 <br/> 
 <div align="left">
 <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
