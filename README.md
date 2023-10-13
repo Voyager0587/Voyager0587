@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: Voyager
 
-⚡ Fun fact: Sudent
+⚡ Fun fact: Still learning....
 # ***Voyager***
 ![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-4+yrs-red)
 <p>
