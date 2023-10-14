@@ -1,5 +1,5 @@
 ## Hi, I'm Voyager, a Developer 🚀 from Mars.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="480"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="470"/>
 
 
 🔭 I’m currently working on improve my skills.
