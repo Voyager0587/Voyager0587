@@ -37,8 +37,8 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Voyager0587&theme=cobalt&hide_border=true" />
 </div>
 <div align="left">
-<img height='190' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
-<img height='190' src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="right" />
+<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
+<img height='160' src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="right" />
 </div> 
 
 
