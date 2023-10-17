@@ -48,12 +48,12 @@
   
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="right" />
-</div><br/><br/><br/><br/><br/>
+</div><br/><br/><br/><br/>
  <br/>
   <br/>
 
 
-  <br/>  <br/>  <br/>  <br/>  
+  <br/>  <br/>  
 <p>
  
 <h2>🤝🏻 Connect with Me</h2> 
