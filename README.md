@@ -2,11 +2,11 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="470"/>
 
 
-🔭 I’m currently working on improve my skills.
+🔭 I’m currently working on improving my skills.
 
 🌱 I’m currently learning Android, algorithms and Java back-end.
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on learning partner.
 
 🤔 I’m looking for help with Android development.
 
@@ -16,7 +16,7 @@
 
 😄 Pronouns: Voyager
 
-⚡ Fun fact: Still learning....
+⚡ Fun fact: Still learning back-end.
 
 # ***Voyager***
 
