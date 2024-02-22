@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on improve my skills.
 
-🌱 I’m currently learning Android and algorithms.
+🌱 I’m currently learning Android, algorithms and Java back-end.
 
 👯 I’m looking to collaborate on ...
 
