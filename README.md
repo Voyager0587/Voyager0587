@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Android, algorithms and Java back-end.
 
-👯 I’m looking to collaborate on learning partner.
+👯 I’m looking to collaborate on ...
 
 🤔 I’m looking for help with Android development.
 
