@@ -12,7 +12,7 @@
 
 💬 Ask me about Android knowledge.
 
-📫 How to reach me: voyager0587@qq.com
+📫 How to reach me: voyager.star@qq.com
 
 😄 Pronouns: Voyager
 
