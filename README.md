@@ -64,7 +64,7 @@
 
 
 <p align="left">
-<a href="mailto:voyager0587@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-voyager.star@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:voyager.star@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-voyager.star@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
