@@ -8,9 +8,9 @@
 
 👯 I’m looking to collaborate on ...
 
-🤔 I’m looking for help with Android development.
+🤔 I’m looking for help with Android development and Java Back-end.
 
-💬 Ask me about Android knowledge.
+💬 Ask me about Android knowledge and Java Back-end.
 
 📫 How to reach me: voyager.star@qq.com
 
