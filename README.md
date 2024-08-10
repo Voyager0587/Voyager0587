@@ -45,6 +45,11 @@
 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=react-dark" alt="Voyager's github activity graph"  />
 <div align="center">
+## 📊 this week i spent my time on:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+            
+
   
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="right" />
