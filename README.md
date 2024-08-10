@@ -24,6 +24,9 @@
 
 
 ![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-1+yrs-red) ![](https://komarev.com/ghpvc/?username=Voyager0587&color=dc143c)
+
+### ⚡Languages and Tools:
+
 <p>
 
   
@@ -42,10 +45,13 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Voyager0587&theme=cobalt&hide_border=true" />
 </div>
 
--->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=react-dark" alt="Voyager's github activity graph"  />
 <div align="center">
-## 📊 this week i spent my time on:
+-->
+
+
+### 📊 This week i spent my time on:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
             
