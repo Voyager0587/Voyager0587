@@ -65,17 +65,23 @@ JavaScript   4 mins          >>-----------------------   07.33 %
 
 <!--END_SECTION:waka-->
             
+#### 🎋 Most Used Languages：
 
   
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="right" />
+
+
+<br><br/><br><br/><br><br/><br><br/><br><br/>
+#### ⭐ GitHub Stats：
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="left" />
 </div><br/><br/><br/><br/>
  <br/>
   <br/>
 
 
   <br/>  <br/>  
-<p>
+
  <br>
   <br>
 <h2>🤝🏻 Connect with Me</h2> 
