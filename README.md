@@ -76,13 +76,12 @@ JavaScript   4 mins          >>-----------------------   07.33 %
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="left" />
 </div><br/><br/><br/><br/>
- <br/>
-  <br/>
+
 
 
   <br/>  <br/>  
 
- <br>
+
   <br>
 <h2>🤝🏻 Connect with Me</h2> 
 
