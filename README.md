@@ -55,12 +55,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 13 August 2024
+From: 09 August 2024 - To: 14 August 2024
 
-Total Time: 55 mins
+Total Time: 1 hr 57 mins
 
-Vue.js       51 mins         >>>>>>>>>>>>>>>>>>>>>>>--   92.67 %
-JavaScript   4 mins          >>-----------------------   07.33 %
+Vue.js       51 mins         >>>>>>>>>>>--------------   43.68 %
+Kotlin       45 mins         >>>>>>>>>>---------------   39.03 %
+XML          14 mins         >>>----------------------   12.28 %
+JavaScript   4 mins          >------------------------   03.46 %
+Gradle       0 secs          -------------------------   00.78 %
+Groovy       0 secs          -------------------------   00.77 %
 ```
 
 <!--END_SECTION:waka-->
