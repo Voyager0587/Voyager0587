@@ -1,8 +1,10 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2366FFFF&center=true&vCenter=true&width=600&lines=坚信梦想new的出来;祈愿奇迹的力量;)](https://git.io/typing-svg)
-
+<p align="center">
+  <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=true&width=600&lines=Firmly believe that new dreams will emerge; pray for the power of miracles." alt="Typing SVG" /></a>
+</p>
 
 ## Hi  <img src="https://voyager0587.oss-cn-guangzhou.aliyuncs.com/%E7%AC%94%E8%AE%B0%E5%9B%BE%E7%89%87/202408251849766.gif" width="30px" />, I'm Voyager, a Developer <img src="https://voyager0587.oss-cn-guangzhou.aliyuncs.com/%E7%AC%94%E8%AE%B0%E5%9B%BE%E7%89%87/202408251848113.gif" width="30px" /> from Mars.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="470"/>
