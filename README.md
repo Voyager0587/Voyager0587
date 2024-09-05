@@ -33,7 +33,7 @@
 
 ![](https://img.shields.io/badge/Android-Developer-brightgreen) ![](https://img.shields.io/badge/Kotlin-Lover-blueviolet) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-1+yrs-red) ![](https://komarev.com/ghpvc/?username=Voyager0587&color=dc143c)
 
-#### ⚡Languages and Tools:
+### ⚡Languages and Tools:
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
@@ -53,7 +53,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=react-dark" alt="Voyager's github activity graph"  />
 <div align="center">
 -->
-#### 🎊 Contribution Graph:
+  
+### 🎊 Contribution Graph:
+
 <p align="center">
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img width="888" src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=github-compact&hide_border=true&area=true" />
@@ -70,7 +72,7 @@
   <br/>
 </p>
 
-#### 📊 This week i spent my time on:
+### 📊 This week i spent my time on:
 <!--START_SECTION:waka-->
 
 ```rust
@@ -92,14 +94,14 @@ GitIgnore file         1 min           -------------------------   00.02 %
 
 <!--END_SECTION:waka-->
             
-#### 🎋 Most Used Languages：
+### 🎋 Most Used Languages：
 
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=transparent" align="left" />
 <!--  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" /> -->
 
 
 <br><br/><br><br/><br><br/><br><br/><br><br/>
-#### ⭐ GitHub Stats：
+### ⭐ GitHub Stats：
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=transparent" align="left" />
 </div><br/><br/><br/><br/>
