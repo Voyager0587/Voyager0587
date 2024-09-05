@@ -57,7 +57,22 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=react-dark" alt="Voyager's github activity graph"  />
 <div align="center">
 -->
-
+#### 🎊 Contribution Graph:
+<p align="center">
+  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  <img width="888" src="https://github-readme-activity-graph.vercel.app/graph?username=Voyager0587&theme=github-compact&hide_border=true&area=true" />
+  <br/>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true" /> -->
+  <!-- https://github.com/anuraghazra/github-readme-stats/pull/2459 -->
+  <img width="420" src="https://github-readme-stats-zeta-azure-65.vercel.app/api?username=Voyager0587&theme=transparent&show_icons=true&rank_icon=percentile&number_format=long&include_all_commits=true&hide_border=true&show=reviews&hide_title=true&role=owner,collaborator,ORGANIZATION_MEMBER" />
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <img width="420" src="https://streak-stats.demolab.com?user=Voyager0587&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <br/>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--   <img width="888" src="https://github-readme-stats.vercel.app/api/wakatime?username=Voyager0587&theme=transparent&hide_border=true&layout=compact&langs_count=16" /> -->
+  <br/>
+</p>
 
 #### 📊 This week i spent my time on:
 <!--START_SECTION:waka-->
