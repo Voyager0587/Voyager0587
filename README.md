@@ -35,19 +35,15 @@
 
 #### ⚡Languages and Tools:
 
-<p>
-
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-
+<!-- https://github.com/tandpfun/skill-icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,spring,idea,androidstudio,docker,git,github,redis&theme=dark" />
 </p>
-
+<!--
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,html,css,js,ts,materialui,androidstudio,ai,au,ps,pr,blender,debian,nodejs,deno,bun,docker,dotnet,electron,fastapi,git,github,githubactions,go,kotlin,less,sass,mongodb,obsidian,npm,pnpm,postgres,powershell,react,reactivex,gradle,visualstudio,vscode,unity,unreal,cloudflare,cmake,codepen,nginx,rollupjs,sentry,tauri,vercel,vite,webpack,windows,php,java,latex,rust,zig&theme=dark" />
+</p>
+-->
 <!--
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Voyager0587&theme=cobalt&hide_border=true" />
@@ -98,14 +94,14 @@ GitIgnore file         1 min           -------------------------   00.02 %
             
 #### 🎋 Most Used Languages：
 
-  
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=transparent" align="left" />
+<!--  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voyager0587&layout=compact&langs_count=8&theme=cobalt" align="left" /> -->
 
 
 <br><br/><br><br/><br><br/><br><br/><br><br/>
 #### ⭐ GitHub Stats：
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=cobalt" align="left" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Voyager0587&show_icons=true&theme=transparent" align="left" />
 </div><br/><br/><br/><br/>
 
 
@@ -124,7 +120,12 @@ GitIgnore file         1 min           -------------------------   00.02 %
 <a href="mailto:voyager.star@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-voyager.star@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+  <a href="https://github.com/Hi-Windom">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Voyager&fontSize=90&fontAlign=50&fontAlignY=70&desc=Power%20by%20&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</a>
+</p>
 
 
 
