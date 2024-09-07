@@ -119,7 +119,7 @@ GitIgnore file         1 min           -------------------------   00.02 %
 
 
 <p align="left">
-<a href="mailto:voyager.star@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-voyager.star@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:voyager.star@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-voyager.star@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
