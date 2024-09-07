@@ -12,19 +12,19 @@
 
 🔭 I’m currently working on improving my skills.
 
-🌱 I’m currently learning Android, algorithms and Java back-end.
+🌱 I’m learning Android development, algorithms, and Java back-end technologies.
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on open-source projects.
 
-🤔 I’m looking for help with Android development and Java Back-end.
+🤔 I’m seeking help with Android development and Java back-end.
 
-💬 Ask me about Android knowledge and Java Back-end.
+💬 Feel free to ask me about Android and Java back-end knowledge.
 
-📫 How to reach me: voyager.star@qq.com
+📫 How to reach me: voyager.star@foxmail.com
 
-😄 Pronouns: Voyager
+😄 Pronouns: He
 
-⚡ Fun fact: Still learning back-end.
+⚡ Fun fact: I'm still learning back-end development.
 
 # ***Voyager***
 
