@@ -76,19 +76,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 24 April 2025
+From: 09 August 2024 - To: 25 April 2025
 
-Total Time: 323 hrs 43 mins
+Total Time: 324 hrs 53 mins
 
-Java                   98 hrs 13 mins  >>>>>>>>-----------------   30.32 %
-Kotlin                 93 hrs 53 mins  >>>>>>>------------------   28.98 %
-XML                    49 hrs 18 mins  >>>>---------------------   15.22 %
-JavaScript             16 hrs 34 mins  >------------------------   05.12 %
-Scala                  14 hrs 44 mins  >------------------------   04.55 %
-Markdown               12 hrs 46 mins  >------------------------   03.94 %
-Vue.js                 10 hrs 11 mins  >------------------------   03.15 %
-Python                 9 hrs 57 mins   >------------------------   03.07 %
-HTML                   4 hrs 12 mins   -------------------------   01.30 %
+Java                   98 hrs 38 mins  >>>>>>>>-----------------   30.34 %
+Kotlin                 93 hrs 53 mins  >>>>>>>------------------   28.87 %
+XML                    49 hrs 40 mins  >>>>---------------------   15.28 %
+JavaScript             16 hrs 34 mins  >------------------------   05.10 %
+Scala                  14 hrs 44 mins  >------------------------   04.53 %
+Markdown               12 hrs 54 mins  >------------------------   03.97 %
+Vue.js                 10 hrs 11 mins  >------------------------   03.13 %
+Python                 9 hrs 57 mins   >------------------------   03.06 %
+HTML                   4 hrs 12 mins   -------------------------   01.29 %
 ```
 
 <!--END_SECTION:waka-->
