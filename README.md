@@ -76,19 +76,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 16 November 2025
+From: 09 August 2024 - To: 17 November 2025
 
-Total Time: 828 hrs 28 mins
+Total Time: 830 hrs 53 mins
 
-Siyuan                 315 hrs 31 mins >>>>>>>>>----------------   37.99 %
-Java                   161 hrs 41 mins >>>>>--------------------   19.47 %
-Kotlin                 103 hrs 43 mins >>>----------------------   12.49 %
-XML                    53 hrs 22 mins  >>-----------------------   06.43 %
-Markdown               48 hrs 47 mins  >------------------------   05.87 %
+Siyuan                 315 hrs 31 mins >>>>>>>>>----------------   37.88 %
+Java                   162 hrs 2 mins  >>>>>--------------------   19.45 %
+Kotlin                 103 hrs 43 mins >>>----------------------   12.45 %
+XML                    53 hrs 23 mins  >>-----------------------   06.41 %
+Markdown               50 hrs 25 mins  >>-----------------------   06.05 %
 Python                 27 hrs 37 mins  >------------------------   03.32 %
 C++                    20 hrs 58 mins  >------------------------   02.52 %
 Vue.js                 19 hrs 52 mins  >------------------------   02.39 %
-JavaScript             17 hrs 16 mins  >------------------------   02.08 %
+JavaScript             17 hrs 16 mins  >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
