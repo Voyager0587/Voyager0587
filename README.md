@@ -76,14 +76,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 August 2024 - To: 17 January 2026
+From: 09 August 2024 - To: 18 January 2026
 
-Total Time: 1,104 hrs 40 mins
+Total Time: 1,105 hrs 34 mins
 
-Siyuan                 521 hrs 35 mins >>>>>>>>>>>>-------------   47.07 %
-Java                   175 hrs 40 mins >>>>---------------------   15.85 %
+Siyuan                 522 hrs 29 mins >>>>>>>>>>>>-------------   47.11 %
+Java                   175 hrs 40 mins >>>>---------------------   15.84 %
 Kotlin                 114 hrs 36 mins >>>----------------------   10.34 %
-Markdown               77 hrs 37 mins  >>-----------------------   07.01 %
+Markdown               77 hrs 37 mins  >>-----------------------   07.00 %
 XML                    54 hrs 58 mins  >------------------------   04.96 %
 Python                 27 hrs 18 mins  >------------------------   02.46 %
 C++                    20 hrs 51 mins  -------------------------   01.88 %
